@@ -1,0 +1,29 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Silent Valley",
+      "author": "Jane Doe",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Whispers of the Night",
+      "author": "John Smith",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Echoes from the Past",
+      "author": "Alice Johnson",
+      "published_year": 1999
+    }
+  }
+]
