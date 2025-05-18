@@ -4,5 +4,5 @@ from books.views import book_list
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('books/', book_list, name='book_list'),  # ← THIS MUST BE PRESENT
+    path('books/', book_list, name='book_list'), 
 ]

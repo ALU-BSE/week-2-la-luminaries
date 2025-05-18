@@ -25,5 +25,455 @@
       "author": "Alice Johnson",
       "published_year": 1999
     }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "The Hidden Forest",
+      "author": "Ava Collins",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "Shadows of Time",
+      "author": "Liam Johnson",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "Beyond the Horizon",
+      "author": "Emma Brooks",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "The Final Chapter",
+      "author": "Oliver Smith",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "Ocean Whispers",
+      "author": "Sophia James",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "Rise of the Phoenix",
+      "author": "Mason Lee",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "Dust and Dreams",
+      "author": "Ella Martinez",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "Crimson Skies",
+      "author": "Noah Brown",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "Silent Echoes",
+      "author": "Grace Taylor",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "The Ice Palace",
+      "author": "Logan Davis",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "Winds of Change",
+      "author": "Chloe Wilson",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "Midnight Sun",
+      "author": "Lucas White",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "Echo in the Rain",
+      "author": "Isabella Clark",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "Falling Leaves",
+      "author": "Benjamin Hall",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "Broken Mirror",
+      "author": "Amelia Scott",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "A Trail of Stars",
+      "author": "Elijah King",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "Moonlight Path",
+      "author": "Aria Wright",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "Secrets and Shadows",
+      "author": "Henry Green",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "The Painted Soul",
+      "author": "Mila Young",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "Journey to the East",
+      "author": "Sebastian Hill",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "Whispers of War",
+      "author": "Layla Adams",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "Garden of Hope",
+      "author": "Ethan Lewis",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "The Lost Lantern",
+      "author": "Scarlett Allen",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "The Glass Staircase",
+      "author": "Daniel Walker",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "Heart of Winter",
+      "author": "Victoria Hughes",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "Through the Fog",
+      "author": "Matthew Bennett",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "Beneath the Surface",
+      "author": "Hannah Price",
+      "published_year": 2022
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "The Forgotten Island",
+      "author": "Samuel Perez",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "The Clockmaker’s Daughter",
+      "author": "Penelope Moore",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "Silent Harmony",
+      "author": "Joseph Morgan",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "Storm Over Eden",
+      "author": "Zoe Jenkins",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "The Forgotten Trail",
+      "author": "Gabriel Turner",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "Valley of Fire",
+      "author": "Aurora Cook",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "Desert Rose",
+      "author": "Andrew Simmons",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "Veil of Secrets",
+      "author": "Lucy Jenkins",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "Echoes of the Storm",
+      "author": "Jackson Foster",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "Twilight of the Gods",
+      "author": "Bella Reyes",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "The Last Star",
+      "author": "Connor Edwards",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "Sapphire Sky",
+      "author": "Luna Bell",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "The Crystal Garden",
+      "author": "Nolan Brooks",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "River of Silence",
+      "author": "Natalie Hayes",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "Bitter Truth",
+      "author": "Owen Russell",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "Ashes and Embers",
+      "author": "Ellie Carter",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "The Ivory Tower",
+      "author": "Hunter Bailey",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "Tears of the Moon",
+      "author": "Peyton Mitchell",
+      "published_year": 2022
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "Crown of Thorns",
+      "author": "Easton Grant",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "The Golden Path",
+      "author": "Alexa Ford",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 51,
+    "fields": {
+      "title": "The Paper Kingdom",
+      "author": "Carter Morris",
+      "published_year": 2023
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 52,
+    "fields": {
+      "title": "The Rain Collector",
+      "author": "Madeline Armstrong",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 53,
+    "fields": {
+      "title": "Lantern in the Dark",
+      "author": "Wyatt Dean",
+      "published_year": 2005
+    }
   }
 ]
