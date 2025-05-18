@@ -475,5 +475,24 @@
       "author": "Wyatt Dean",
       "published_year": 2005
     }
+  },
+
+{
+  "model": "books.book",
+  "pk": 5,
+  "fields": {
+    "title": "Shadows Over Evermoor",
+    "author": "Gregory Hines",
+    "published_year": 2002
   }
+},
+{
+  "model": "books.book",
+  "pk": 6,
+  "fields": {
+    "title": "The Last Ember",
+    "author": "Samantha Lee",
+    "published_year": 2020
+  }
+}
 ]
